@@ -240,4 +240,4 @@ This repository serves as the official landing page for BuildCraft. The software
 **Get the most recent version of BuildCraft today!**
 
 ---
-**Last updated:** 2026-09-28 19:59:39 UTC
+**Last updated:** 2026-09-29 00:11:50 UTC
